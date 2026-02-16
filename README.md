@@ -1,3 +1,4 @@
+New site made in react
 # bun-react-template
 
 To install dependencies:
